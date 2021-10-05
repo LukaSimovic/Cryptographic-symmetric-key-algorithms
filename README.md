@@ -1,5 +1,5 @@
 # Cryptographic-symmetric-key-algorithms
-Encryption and decryption using symmetric-key substitution algorithms implemented as console application
+Encryption and decryption using symmetric-key substitution algorithms implemented as console application (C++)
 
 Algorithms:
 1. Caesar
